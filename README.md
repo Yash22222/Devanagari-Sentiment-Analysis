@@ -13,6 +13,17 @@ The project utilizes various datasets containing text data in Devanagari script,
 ## Project Approach
 The sentiment analysis task is approached as a supervised learning problem, where machine learning algorithms, particularly Random Forest, are trained on the preprocessed text data to predict sentiment labels. Text preprocessing techniques such as tokenization, stemming, and vectorization are employed to convert raw text into numerical features suitable for model training.
 
+## Why Random Forest
+1. Robustness: Random Forest is robust to overfitting and performs well on a variety of datasets without much tuning of hyperparameters. This makes it suitable for handling diverse text data in different languages.
+
+2. Ensemble Learning: Random Forest is an ensemble learning method that combines multiple decision trees to improve generalization and robustness. This allows it to capture complex relationships in the data and make accurate predictions.
+
+3. Feature Importance: Random Forest provides a measure of feature importance, which can help understand the most influential features in the text data for sentiment analysis. This can aid in feature selection and interpretation of the model.
+
+4. Handling Imbalanced Data: Random Forest can handle imbalanced datasets well, which is common in sentiment analysis tasks where the distribution of sentiment labels may be skewed.
+
+5. Scalability: Random Forest is parallelizable and can handle large datasets efficiently. This makes it suitable for scaling up to larger text corpora if needed.
+
 ## Evaluation
 The performance of the trained models is evaluated using standard evaluation metrics such as accuracy, precision, recall, and F1-score. Confusion matrices and classification reports are generated to analyze the models' performance on different sentiment categories.
 
