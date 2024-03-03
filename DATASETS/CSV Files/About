@@ -1,1 +1,6 @@
-
+1] Hindi, Marathi, Punjabi and Gujarati CSV Files:-
+The datasets used in the "Devanagari Sentiment Analysis" project are collections of text data written in four languages: Hindi, Marathi, Punjabi, and Gujarati. 
+Each dataset includes text samples along with corresponding sentiment labels, which categorize the sentiment expressed in the text as positive, negative, or neutral. 
+These datasets are carefully prepared and annotated to facilitate the training and evaluation of machine learning models for sentiment analysis tasks in languages using the Devanagari script. 
+By leveraging these datasets, the project aims to develop accurate sentiment analysis models tailored to these languages, enabling applications such as sentiment analysis of social media content, customer reviews, 
+and news articles in the Devanagari script-based languages.
