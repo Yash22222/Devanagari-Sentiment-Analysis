@@ -1,0 +1,6 @@
+2] Hindi, Marathi Punjabi and Gujarati TFF Datasets:-
+
+The TFF (True Fake Fact) dataset used in the "Devanagari Sentiment Analysis" project consists of text samples in Devanagari script, labeled with one of three categories: True, Fake, or Fact. 
+This dataset is designed for training and evaluating machine learning models to classify text based on its authenticity or truthfulness. 
+The TFF dataset provides a valuable resource for developing algorithms to detect misinformation, fake news, or false claims in texts written in languages using the Devanagari script. 
+Through the analysis of this dataset, the project aims to contribute to the development of robust models for identifying and combating misinformation in Devanagari-script languages.
